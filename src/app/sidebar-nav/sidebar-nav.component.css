@@ -1,0 +1,20 @@
+img {
+    border-radius: 50%;
+  }
+.card {
+    margin: auto;
+    text-align: center;
+    object-fit: cover;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+li.logo {
+    background-color: #fafafa;
+    border-bottom: 1px solid #ddd;
+    box-sizing: content-box;
+    min-height: 90px;
+    padding: 30px 30px 40px;
+}
