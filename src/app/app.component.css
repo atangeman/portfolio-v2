@@ -1,3 +1,6 @@
 main {
     margin: 3rem;
 }
+app-sidebar-nav {
+    position:fixed;
+}
