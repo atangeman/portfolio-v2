@@ -4,3 +4,12 @@ main {
 app-sidebar-nav {
     position:fixed;
 }
+
+footer {
+    font-size: 11px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
